@@ -1,0 +1,14 @@
+.style{
+    color:rgb(251, 255, 8);
+    font-size:19px;
+}
+.style2{
+    color:rgb(26, 238, 61);
+    font-size:19px;
+}
+#pagecontent{
+    display:none;
+}
+#inscription{
+    display:none;
+}
