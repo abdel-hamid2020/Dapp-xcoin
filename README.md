@@ -1,3 +1,5 @@
+In parallel to a theoretical study, we have carried out concrete implementations of local cryptocurrencies, which allowed us to identify the parameters to be taken into account for their development.
+
 Since few complementary local currencies have chosen to use a public blockchain, we wanted to develop a prototype local cryptocurrency using the main Ethereum network.
 we wanted to develop a prototype of a local cryptocurrency using the main Ethereum network.
 This prototype is thus intended as a proof of concept of a complementary local cryptocurrency.
