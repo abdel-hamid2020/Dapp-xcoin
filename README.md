@@ -14,3 +14,7 @@ Our application is built around two parts:
 Remix platform. We also use Metamask, a cryptocurrency wallet management tool.
 Finally, the link between the user interface and the smart contracts is realized using a JavaScript library called Web3, linked to the user interface.
 library called Web3, developed by Ethereum.
+
+![AccueilMetamaskConnecté](https://user-images.githubusercontent.com/66619069/119663581-c3598c00-be32-11eb-9ae3-39c4b82c37e9.png)
+![Transfert(pourPayerqlqun)](https://user-images.githubusercontent.com/66619069/119663616-c94f6d00-be32-11eb-8c84-90908746729d.png)
+
